@@ -24,8 +24,6 @@ Welcome to **PinkGPT** — a streamlined web interface for interacting with GPT-
 ---
 
 ## 🎬 Demo Video
-<video src="./resources/pinkgpt.mp4" controls width="600">
-    Your browser does not support the video tag.
-</video>
+[![Watch the demo video](./resources/pinkgpt.mp4)](https://github.com/learner-codec/Personal_project/assets/56203705/ec566ac2-a83f-423f-973e-9c3069977f5e)
 
 
