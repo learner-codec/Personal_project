@@ -1,7 +1,26 @@
-# Personal_project
-### Demo
+# 🌟 QualityImports
 
+**QualityImports** is a React.js-based website designed for seamless product purchasing directly from China.
 
+![QualityImports Demo](./resources/quality_imports_demo.png)
 
-https://github.com/learner-codec/Personal_project/assets/56203705/ec566ac2-a83f-423f-973e-9c3069977f5e
+## 🚚 Features
+- **Product Listing:** Browse and explore available products.
+- **Shipment Tracking:** Track your orders from purchase to delivery.
+
+---
+
+## 🛠️ Getting Started
+
+1. **Run the Project:**  
+   To start the development server, use:
+   ```bash
+   npm start
+   ```
+
+2. **Deployment Build:**  
+   For production-ready deployment, run:
+   ```bash
+   npm run build
+   ```
 
